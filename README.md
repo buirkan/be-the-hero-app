@@ -8,5 +8,4 @@ Login             |  ONG Sign Up
 :-------------------------:|:-------------------------:
 ![](./frontend/public/screenshots/homepage.png)  |  ![](./frontend/public/screenshots/ong-sign-up.png)
 Home Page
-:-------------------------:|
 ![](./frontend/public/screenshots/home-ong.png)

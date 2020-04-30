@@ -1,9 +1,12 @@
 # Be the Hero app
 
-#### Application of the OmniStack 11.0 week course
+> Fullstack donation for ONGs focused in the treatment of animals. Project created in Omnistack week 11.0 course.
 
 ## Screenshots (Web)
 
-Home             |  ONG Sign Up
+Login             |  ONG Sign Up
 :-------------------------:|:-------------------------:
 ![](./frontend/public/screenshots/homepage.png)  |  ![](./frontend/public/screenshots/ong-sign-up.png)
+Home Page
+:-------------------------:|
+![](./frontend/public/screenshots/home-ong.png)

@@ -20,11 +20,7 @@ export default () => {
             description,
             value
         }
-        api.post('incidents', data, {
-            headers: {
-                Authorization: ongId
-            }
-        })
+        api.post('incidents', data, { headers: { Authorization: ongId } })
             .then(response => {
                 console.log(`Incident created ID: ${response.data.id}`)
                 history.push('/profile')
